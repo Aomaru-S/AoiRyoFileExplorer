@@ -74,3 +74,8 @@ fun getObjectList(_path: String?): List<File>? {
     }
     return null
 }
+
+fun upCurrentDir(): String? {
+    // TODO: 2022/04/15 return newPath or null
+    return null
+}
